@@ -1,0 +1,33 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output
+build/
+
+# Ignore unnecessary configuration files
+config.json
+eas.json
+
+# Ignore test files
+__tests__/
+
+# Ignore files generated during the build process
+dist/
+*.apk
+*.ipa
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore my Java Path
+platforms/
+tools/
+platform-tools/
+emulator/
+cmdline-tools/
+build-tools/
+add-ons/
+aquoteaday-982596a7b753.json
+.expo/
+.temp/
